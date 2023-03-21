@@ -1,0 +1,8 @@
+{
+    "parent": "quark:block/vertical_slab",
+    "textures": {
+        "bottom": "quark:block/backport/deepslate_bricks",
+        "top": "quark:block/backport/deepslate_bricks",
+        "side": "quark:block/backport/deepslate_bricks"
+    }
+}

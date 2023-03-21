@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "quark:block/backport/polished_deepslate",
+        "top": "quark:block/backport/polished_deepslate",
+        "side": "quark:block/backport/polished_deepslate"
+    }
+}

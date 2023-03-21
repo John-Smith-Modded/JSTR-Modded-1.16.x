@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "map=false": { "model": "quark:block/blue_frame" },
+    "map=true":  { "model": "quark:block/blue_frame_map" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "inverted=false": { "model": "quark:block/weather_sensor" },
+    "inverted=true": { "model": "quark:block/weather_sensor_inverted" }
+  }
+}

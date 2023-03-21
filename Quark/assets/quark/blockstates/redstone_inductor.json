@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"facing=north,locked=false": { "model": "quark:block/inductor", "y": 180 },
+		"facing=south,locked=false": { "model": "quark:block/inductor", "y": 0 },
+		"facing=east,locked=false": { "model": "quark:block/inductor", "y": 270 },
+		"facing=west,locked=false": { "model": "quark:block/inductor", "y": 90 },
+		"facing=north,locked=true": { "model": "quark:block/inductor_locked", "y": 180 },
+		"facing=south,locked=true": { "model": "quark:block/inductor_locked", "y": 0 },
+		"facing=east,locked=true": { "model": "quark:block/inductor_locked", "y": 270 },
+		"facing=west,locked=true": { "model": "quark:block/inductor_locked", "y": 90 }
+	}
+}

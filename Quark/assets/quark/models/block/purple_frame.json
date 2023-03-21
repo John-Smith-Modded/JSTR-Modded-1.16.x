@@ -1,0 +1,6 @@
+{
+  "parent": "block/item_frame",
+  "textures": {
+    "back": "quark:block/purple_frame_base"
+  }
+}

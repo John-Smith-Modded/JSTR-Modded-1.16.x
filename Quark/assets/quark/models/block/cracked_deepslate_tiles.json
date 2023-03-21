@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "quark:block/backport/cracked_deepslate_tiles"
+	}
+}
