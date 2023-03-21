@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "quark:block/deepslate_tiles_slab" },
+        "type=top": { "model": "quark:block/deepslate_tiles_slab_top" },
+        "type=double": { "model": "quark:block/deepslate_tiles" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "map=false": { "model": "quark:block/lime_frame" },
+    "map=true":  { "model": "quark:block/lime_frame_map" }
+  }
+}

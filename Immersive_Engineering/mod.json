@@ -1,0 +1,10 @@
+{
+  "mod_id": "immersiveengineering",
+  "mod_name": "Immersive Engineering",
+  "mod_dir": "/Immersive_Engineering/",
+  "mod_version": "v5.1.0-148",
+  "mc_version": "1.16.5",
+  "mod_authors": ["BluSunrize", "Damien A.W. Hazard"],
+  "url_website": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+  "description": "A realism-inspired tech mod."
+}

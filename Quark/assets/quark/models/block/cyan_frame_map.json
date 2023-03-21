@@ -1,0 +1,6 @@
+{
+  "parent": "block/item_frame_map",
+  "textures": {
+    "back": "quark:block/cyan_frame_base"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/daylight_detector",
+  "textures": {
+    "particle": "quark:block/weather_sensor_top",
+    "top": "quark:block/weather_sensor_top",
+    "side": "quark:block/weather_sensor_side"
+  }
+}

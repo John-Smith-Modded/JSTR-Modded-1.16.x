@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "map=false": { "model": "quark:block/cyan_frame" },
+    "map=true":  { "model": "quark:block/cyan_frame_map" }
+  }
+}
